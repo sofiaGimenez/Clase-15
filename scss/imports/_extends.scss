@@ -1,0 +1,6 @@
+@import "./variables";
+
+.clase-extend{
+    @extend.main__estilo;
+    flex-direction: column;
+}

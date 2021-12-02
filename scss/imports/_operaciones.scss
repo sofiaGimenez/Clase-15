@@ -1,0 +1,13 @@
+@import "./variables";
+
+.section1{
+    width: $medidaBasicaCaja;
+}
+
+.section2{
+    width: $medidaBasicaCaja - 50px;
+}
+
+.section3{
+    width: $medidaBasicaCaja * 2;
+}
